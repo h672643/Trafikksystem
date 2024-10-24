@@ -1,0 +1,4 @@
+﻿  Dat154O1.cpp
+C:\Users\kedir\Desktop\Dat154O1\Dat154O1\Dat154O1.cpp(280,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kedir\Desktop\Dat154O1\Dat154O1\Dat154O1.cpp(284,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Dat154O1.vcxproj -> C:\Users\kedir\Desktop\Dat154O1\x64\Debug\Dat154O1.exe
